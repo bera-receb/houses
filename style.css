@@ -1,0 +1,21 @@
+.img-1:hover{
+  opacity: 0.5;
+    transform: scale(1.05);
+}
+.carouselclass{
+
+
+}
+.navbar{
+    position: absolute;
+    top: 0;
+    width: 100%;
+   
+    padding: 8px;
+
+    z-index: 1;
+}
+
+.img-1:hover .ho {
+    display: block !important;
+}
